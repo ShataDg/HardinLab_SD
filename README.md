@@ -1,6 +1,8 @@
 # HardinLab
 2020 02 06 COBA Embryonic epidermis, Jeff Hardin Lab (UW-Madison) - p_20embryonicepidermis
 
+https://docs.google.com/document/d/1kZzXucsLHuRpBWjjovl7_3enGEcrHSsu0E0xODIQwOQ/edit
+
 
 ## Data
 
