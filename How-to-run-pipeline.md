@@ -47,11 +47,17 @@
 
 ![image](https://github.com/ShataDg/HardinLab_SD/assets/139376717/572d75e9-16ae-4b9d-8b88-c2f56df686e6)
 
-13. Once Cellpose has finished running, it will output the number of spots detected; click on Next
+13. Once Cellpose has finished running, it will output the number of spots detected; click on 'Next'
 
 ![image](https://github.com/ShataDg/HardinLab_SD/assets/139376717/bcefae44-a265-487b-add5-5394f6f96cac)
 
-14. 
+14. Perform 'Intial Thresholding' based on your biological question
+
+
+
+
+
+15. 
 
 
 
