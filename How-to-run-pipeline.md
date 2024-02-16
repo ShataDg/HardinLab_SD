@@ -45,7 +45,7 @@
 
 12. Set the path to cellpose and the cutsom model
 
-![image](https://github.com/ShataDg/HardinLab_SD/assets/139376717/e915e564-38c7-425b-8bd2-b4db66984911)
+![image](https://github.com/ShataDg/HardinLab_SD/assets/139376717/572d75e9-16ae-4b9d-8b88-c2f56df686e6)
 
 13. 
 
