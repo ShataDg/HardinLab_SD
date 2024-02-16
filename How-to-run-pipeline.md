@@ -22,6 +22,23 @@
    d. Start Cellpose GUI
    <br> ```cellpose```
 
-6. Click on 'Help' in Fiji, and then 'Update'
+6. Click on 'Help' in Fiji, and then 'Update' and restart Fiji to apply the updates
    
    ![image](https://github.com/ShataDg/HardinLab_SD/assets/139376717/86f8468a-6083-46fc-a587-413f98bc8c5a)
+
+7. Click 'Update' again and then on 'Manage Update Sites'. Check the 'Trackmate-Cellpose' box and restart Fiji.
+
+![Screenshot 2024-02-16 at 1 32 18 PM](https://github.com/ShataDg/HardinLab_SD/assets/139376717/aa239d3a-ec99-40af-b151-fc564fda548b)
+
+8. Drag and drop the image created in steps 3 and 4
+
+
+
+
+
+
+
+
+
+
+
