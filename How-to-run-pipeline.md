@@ -8,15 +8,19 @@
    ![image](https://github.com/ShataDg/HardinLab_SD/assets/139376717/3baca39e-d749-44c8-ba8b-a872ae87447f)
 
 5. Ensure that cellpose has been installed and is running on your system
-   Code to help installation issue with Cellpose GUI on Mac M2
-   // Create a virtual environment using Python 3.9 with libraris pyqt, pyqtgraph, and imagecodecs //
+   Code to help installation issue with Cellpose GUI on Mac M2 (running Trackmate-Cellpose does not necessarily require this step, it only requires a working version of cellpose on the system)
+
+   //Create a virtual environment using Python 3.9 with libraries pyqt, pyqtgraph, and imagecodecs
    ```conda create --name cellpose -y python=3.9 pyqt imagecodecs pyqtgraph```
 
-   // Activate the virtual environment //
+   // Activate the virtual environment
    ```conda activate cellpose```
 
-   // Install cellpose and required dependencies //
+   // Install cellpose and required dependencies
    ```pip install cellpose pyqt6 superqt```
 
-   // Start Cellpose GUI //
+   // Start Cellpose GUI
    ```cellpose```
+
+6. Click on 'Help' in Fiji, and then 'Update'
+   ![image](https://github.com/ShataDg/HardinLab_SD/assets/139376717/86f8468a-6083-46fc-a587-413f98bc8c5a)
