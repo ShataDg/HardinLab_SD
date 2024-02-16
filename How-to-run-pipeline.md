@@ -31,6 +31,11 @@
 ![Screenshot 2024-02-16 at 1 32 18 PM](https://github.com/ShataDg/HardinLab_SD/assets/139376717/aa239d3a-ec99-40af-b151-fc564fda548b)
 
 8. Drag and drop the image created in steps 3 and 4
+9. Click on 'Plugins' --> 'Tracking' --> 'Trackmate'
+
+![Screenshot 2024-02-16 at 1 36 27 PM](https://github.com/ShataDg/HardinLab_SD/assets/139376717/a932038c-8a75-485c-ac83-ff4328d63994)
+
+10. 
 
 
 
