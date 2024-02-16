@@ -43,11 +43,15 @@
 
 ![Screenshot 2024-02-16 at 1 40 15 PM](https://github.com/ShataDg/HardinLab_SD/assets/139376717/2c4000f9-8c8c-49cb-a9ba-99bd0fff4e7f)
 
-12. Set the path to cellpose and the cutsom model
+12. Set the path to Cellpose and the cutsom model and click on Next
 
 ![image](https://github.com/ShataDg/HardinLab_SD/assets/139376717/572d75e9-16ae-4b9d-8b88-c2f56df686e6)
 
-13. 
+13. Once Cellpose has finished running, it will output the number of spots detected; click on Next
+
+![image](https://github.com/ShataDg/HardinLab_SD/assets/139376717/bcefae44-a265-487b-add5-5394f6f96cac)
+
+14. 
 
 
 
