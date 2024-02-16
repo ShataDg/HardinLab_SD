@@ -51,9 +51,11 @@
 
 ![image](https://github.com/ShataDg/HardinLab_SD/assets/139376717/bcefae44-a265-487b-add5-5394f6f96cac)
 
-14. Perform 'Intial Thresholding' based on your biological question and click on the wrench button
+14. Perform 'Intial Thresholding' based on your biological question and click 'Next'
 
-<img width="340" alt="image" src="https://github.com/ShataDg/HardinLab_SD/assets/139376717/ba9fa717-ab0c-4744-9e14-eebacb766d0e">
+![Screenshot 2024-02-16 at 2 20 49 PM](https://github.com/ShataDg/HardinLab_SD/assets/139376717/e94af9f4-d50c-4fff-95c6-ef6d7b3c2d04)
+
+
 
 15. 
 
