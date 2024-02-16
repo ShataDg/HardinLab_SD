@@ -7,5 +7,16 @@
    
    ![image](https://github.com/ShataDg/HardinLab_SD/assets/139376717/3baca39e-d749-44c8-ba8b-a872ae87447f)
 
-5. 
+5. Ensure that cellpose has been installed and is running on your system
+   Code to help installation issue with Cellpose GUI on Mac M2
+   // Create a virtual environment using Python 3.9 with libraris pyqt, pyqtgraph, and imagecodecs //
+   ```conda create --name cellpose -y python=3.9 pyqt imagecodecs pyqtgraph```
 
+   // Activate the virtual environment //
+   ```conda activate cellpose```
+
+   // Install cellpose and required dependencies //
+   ```pip install cellpose pyqt6 superqt```
+
+   // Start Cellpose GUI //
+   ```cellpose```
