@@ -67,9 +67,14 @@
 
 ### Running the pipeline on the set of images received Feb, 2024
 
-The macro produced a hyperstack but gave this error message
+1. The macro produced a hyperstack but gave this error message
 
 ![image](https://github.com/ShataDg/HardinLab_SD/assets/139376717/753f3502-85fa-4098-b81f-5c8e5a9998ed)
+
+2. Trackmate with Cellpose detector was used to analyse the hyperstack
+
+![image](https://github.com/ShataDg/HardinLab_SD/assets/139376717/82f6ab27-fa6d-415b-8ecf-94a8720bad86)
+
 
 
 
