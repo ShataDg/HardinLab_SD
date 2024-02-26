@@ -8,7 +8,7 @@
 3. Fiji will ask to be pointed to the (a) folder containing images and (b) folder where the output should be saved  
 4. Fiji will also ask for details (number of z planes and time-lapse planes) related to the image stacks, and show the progress of hyperstack creation in a separate window
 
-![] https://github.com/ShataDg/HardinLab_SD/blob/c0e95afcdb46927093f3d8c7d6b557cb2608279f/Images/Screenshot%202024-02-26%20at%2011.09.51%E2%80%AFAM.png
+![image]https://github.com/ShataDg/HardinLab_SD/blob/c0e95afcdb46927093f3d8c7d6b557cb2608279f/Images/Screenshot%202024-02-26%20at%2011.09.51%E2%80%AFAM.png
 
 
 
