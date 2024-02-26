@@ -11,9 +11,9 @@
 
 ![alt text](<Screenshot 2024-02-26 at 11.36.38 AM.png>)
 
-
-1. Ensure that cellpose has been installed and is running on your system
-   Code to help installation issue with Cellpose GUI on Mac M2 (running TrackMate-Cellpose does not necessarily require this step, it only requires a working version of cellpose on the system)
+5. To use the Cellpose detector within Trackmate, ensure that cellpose has been installed and is running on your system
+   '''
+   The following code should help address installation issues with the Cellpose GUI on Mac M2 (running TrackMate-Cellpose does not necessarily require this step, it only requires a working version of cellpose on the system)
 
    a. Create a virtual environment using Python 3.9 with libraries pyqt, pyqtgraph, and imagecodecs
    <br> ```conda create --name cellpose -y python=3.9 pyqt imagecodecs pyqtgraph```
@@ -27,11 +27,12 @@
    d. Start Cellpose GUI
    <br> ```cellpose```
 
-2. Click on 'Help' in Fiji, and then 'Update' and restart Fiji to apply the updates
+   '''
+1. Click on 'Help' in Fiji, and then 'Update' and restart Fiji to apply the updates
    
    ![image](https://github.com/ShataDg/HardinLab_SD/assets/139376717/86f8468a-6083-46fc-a587-413f98bc8c5a)
 
-3. Click 'Update' again and then on 'Manage Update Sites'. Check the 'Trackmate-Cellpose' box and restart Fiji.
+2. Click 'Update' again and then on 'Manage Update Sites'. Check the 'Trackmate-Cellpose' box and restart Fiji.
 
 ![Screenshot 2024-02-16 at 1 32 18 PM](https://github.com/ShataDg/HardinLab_SD/assets/139376717/aa239d3a-ec99-40af-b151-fc564fda548b)
 
