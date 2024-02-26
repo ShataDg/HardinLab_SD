@@ -2,6 +2,7 @@
 
 #### The following steps were executed on a subset comprising 31 timepoints with 26 slices in each timepoint
 
+##### Steps 1 - 5: create a hyperstack from the individual time-point and slices
 1. Open Fiji (making sure that the latest updates have been applied)
 2. Drag and drop the FindFocusMacroEdge.ijm in Fiji
 3. Fiji will ask to be pointed to the (a) folder containing images and (b) folder where the output should be saved
