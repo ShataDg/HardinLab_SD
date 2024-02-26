@@ -8,9 +8,9 @@
 3. Fiji will ask to be pointed to the (a) folder containing images and (b) folder where the output should be saved  
 4. Fiji will also ask for details (number of z planes and time-lapse planes) related to the image stacks, and show the progress of hyperstack creation in a separate window
 
-![alt text](<Screenshot 2024-02-26 at 11.09.51 AM.png>)
+![image](<Screenshot 2024-02-26 at 11.09.51 AM.png>)
 
-![alt text](<Screenshot 2024-02-26 at 11.36.38 AM.png>)
+
 
 ### Steps 5 - ..: Running Cellpose-detector within Trackmate
 
