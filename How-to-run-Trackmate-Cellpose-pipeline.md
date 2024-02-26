@@ -3,9 +3,9 @@
 ## The following steps were executed on a subset comprising 31 timepoints with 26 slices in each timepoint
 
 ### Steps 1 - 4: Creating a hyperstack from the individual time-points and slices
-1. Open Fiji (making sure that the latest updates have been applied)
-2. Drag and drop the FindFocusMacroEdge.ijm in Fiji
-3. Fiji will ask to be pointed to the (a) folder containing images and (b) folder where the output should be saved
+1. Open Fiji (making sure that the latest updates have been applied)  
+2. Drag and drop the FindFocusMacroEdge.ijm in Fiji  
+3. Fiji will ask to be pointed to the (a) folder containing images and (b) folder where the output should be saved  
 4. Fiji will also ask for details (number of z planes and time-lapse planes) related to the image stacks, and show the progress of hyperstack creation in a separate window
 
 ![alt text](<Screenshot 2024-02-26 at 11.09.51 AM.png>)
@@ -34,13 +34,13 @@
    '''
 6. Click on 'Help' in Fiji, and then 'Update' and restart Fiji to apply the updates
    
-   ![image](https://github.com/ShataDg/HardinLab_SD/assets/139376717/86f8468a-6083-46fc-a587-413f98bc8c5a)
+![image](https://github.com/ShataDg/HardinLab_SD/assets/139376717/86f8468a-6083-46fc-a587-413f98bc8c5a)
 
 7. Click 'Update' again and then on 'Manage Update Sites'. Check the 'Trackmate-Cellpose' box and restart Fiji.
 
 ![Screenshot 2024-02-16 at 1 32 18 PM](https://github.com/ShataDg/HardinLab_SD/assets/139376717/aa239d3a-ec99-40af-b151-fc564fda548b)
 
-8. Drag and drop the image created in steps 3 and 4
+8. Drag and drop the hyperstack created in steps 1 - 4  
 9. Click on 'Plugins' --> 'Tracking' --> 'TrackMate'
 
 ![Screenshot 2024-02-16 at 1 36 27 PM](https://github.com/ShataDg/HardinLab_SD/assets/139376717/a932038c-8a75-485c-ac83-ff4328d63994)
