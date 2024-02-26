@@ -65,8 +65,6 @@
 
 ![Screenshot 2024-02-16 at 2 20 49 PM](https://github.com/ShataDg/HardinLab_SD/assets/139376717/e94af9f4-d50c-4fff-95c6-ef6d7b3c2d04)
 
-
-
 15. Choose the tracker
 
 
