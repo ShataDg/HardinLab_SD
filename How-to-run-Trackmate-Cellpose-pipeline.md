@@ -1,6 +1,6 @@
 ### Steps to follow to run the Fiji-Cellpose-Trackmate pipeline to analyse 4D Nomarski Microscopy images of C.elegans embryo for tracking epidermal cell development
 
-#### The following steps were executed on a subset comprising 30 timepoints with 26 slices in each timepoint
+#### The following steps were executed on a subset comprising 31 timepoints with 26 slices in each timepoint
 
 1. Open Fiji (making sure that the latest updates have been applied)
 2. Drag and drop the FindFocusMacroEdge.ijm in Fiji
