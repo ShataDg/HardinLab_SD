@@ -12,7 +12,7 @@
 ![alt text](<Screenshot 2024-02-26 at 11.36.38 AM.png>)
 
 5. To use the Cellpose detector within Trackmate, ensure that cellpose has been installed and is running on your system
-   '''
+   /n '''
    The following code should help address installation issues with the Cellpose GUI on Mac M2 (running TrackMate-Cellpose does not necessarily require this step, it only requires a working version of cellpose on the system)
 
    a. Create a virtual environment using Python 3.9 with libraries pyqt, pyqtgraph, and imagecodecs
