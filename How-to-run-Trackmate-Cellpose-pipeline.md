@@ -5,11 +5,14 @@
 1. Open Fiji (making sure that the latest updates have been applied)
 2. Drag and drop the FindFocusMacroEdge.ijm in Fiji
 3. Fiji will ask to be pointed to the (a) folder containing images and (b) folder where the output should be saved
-4. Fiji will also ask for details (number of z planes and time-lapse planes) related to the image stacks
+4. Fiji will also ask for details (number of z planes and time-lapse planes) related to the image stacks, and show the progress of hyperstack creation in a separate window
 
 ![alt text](<Screenshot 2024-02-26 at 11.09.51 AM.png>)
 
-5. Ensure that cellpose has been installed and is running on your system
+![alt text](<Screenshot 2024-02-26 at 11.36.38 AM.png>)
+
+
+1. Ensure that cellpose has been installed and is running on your system
    Code to help installation issue with Cellpose GUI on Mac M2 (running TrackMate-Cellpose does not necessarily require this step, it only requires a working version of cellpose on the system)
 
    a. Create a virtual environment using Python 3.9 with libraries pyqt, pyqtgraph, and imagecodecs
@@ -24,11 +27,11 @@
    d. Start Cellpose GUI
    <br> ```cellpose```
 
-6. Click on 'Help' in Fiji, and then 'Update' and restart Fiji to apply the updates
+2. Click on 'Help' in Fiji, and then 'Update' and restart Fiji to apply the updates
    
    ![image](https://github.com/ShataDg/HardinLab_SD/assets/139376717/86f8468a-6083-46fc-a587-413f98bc8c5a)
 
-7. Click 'Update' again and then on 'Manage Update Sites'. Check the 'Trackmate-Cellpose' box and restart Fiji.
+3. Click 'Update' again and then on 'Manage Update Sites'. Check the 'Trackmate-Cellpose' box and restart Fiji.
 
 ![Screenshot 2024-02-16 at 1 32 18 PM](https://github.com/ShataDg/HardinLab_SD/assets/139376717/aa239d3a-ec99-40af-b151-fc564fda548b)
 
