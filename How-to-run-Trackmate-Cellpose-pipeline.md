@@ -7,7 +7,7 @@
 3. Fiji will ask to be pointed to the (a) folder containing images and (b) folder where the output should be saved
 4. Fiji will also ask for details (number of z planes and time-lapse planes) related to the image stacks
 
-/Users/sdasgupt/Documents/DBP_Hardin/HardinLab_SD/HardinLab_SD/Images/Screenshot 2024-02-26 at 11.09.51 AM.png
+![alt text](<Screenshot 2024-02-26 at 11.09.51 AM.png>)
 
 5. Ensure that cellpose has been installed and is running on your system
    Code to help installation issue with Cellpose GUI on Mac M2 (running TrackMate-Cellpose does not necessarily require this step, it only requires a working version of cellpose on the system)
