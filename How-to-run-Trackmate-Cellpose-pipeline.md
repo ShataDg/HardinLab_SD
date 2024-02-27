@@ -75,15 +75,19 @@
 
 ![image](<Images/Screenshot 2024-02-26 at 8.32.15 PM.png>)
 
-16. Select the tracker - Simple LAP tracker was used in the original pipeline and was used for this examplle as well
+16. Select the tracker (Simple LAP tracker was used in the original pipeline and was used for this examplle as well); click on 'Next'
 
 ![image](<Images/Screenshot 2024-02-26 at 8.38.37 PM.png>)
 
-17. Set the parameters for the Simple LAP tracker (for this example, the default parameters were used)
+17. Set the parameters for the Simple LAP tracker (for this example, the default parameters were used); click on 'Next'
 
 ![image](<Images/Screenshot 2024-02-26 at 8.41.14 PM.png>)
 
-18. 
+18. TrackMate will inform the number of detected tracks; click on 'Next'
+
+
+
+19. 
 
 
 
