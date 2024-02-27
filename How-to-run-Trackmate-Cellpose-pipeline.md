@@ -69,7 +69,7 @@
 
 14.  Perform 'Intial Thresholding' based on your biological question and click 'Next' (for this example, no thresholding was performed)
 
-
+![image](<Images/Screenshot 2024-02-26 at 8.24.08 PM.png>)
 
 15. Choose the tracker
 
