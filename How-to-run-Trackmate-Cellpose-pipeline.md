@@ -57,7 +57,7 @@
 
 ![image](<Images/Screenshot 2024-02-26 at 7.41.31 PM.png>)
 
-12. Set the paths to Cellpose (i.e. where Cellpose was installed) and the cutsom model (i.e. Cellpose models trained on the images - for this example we are using the 'hardin' model, trained to identify ~6 migrating cells of interest)) and click on Next
+12. Set the paths to Cellpose (i.e. where Cellpose was installed) and the cutsom model (i.e. Cellpose models trained on the images - for this example we are using the 'hardin' model, trained to identify ~6 migrating cells of interest) and click on Next
 
 ![image](<Images/Screenshot 2024-02-26 at 7.54.15 PM.png>)
 
@@ -87,7 +87,7 @@
 
 ![image](<Images/Screenshot 2024-02-26 at 8.46.05 PM.png>)
 
-19. Set filters on tracks by selecting the appropriate filtering parameter from the dropdown (for this example, the filetr was set based on track duration, including tracks with a duration of < 427.64ms)
+19. Set filters on tracks by selecting the appropriate filtering parameter from the dropdown (for this example, the filter was set based on track duration, including tracks with a duration of < 427.64ms - 22 of the 23 detected tracks were included)
 
 ![image](<Images/Screenshot 2024-02-26 at 8.53.40 PM.png>)
 
