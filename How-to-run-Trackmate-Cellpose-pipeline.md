@@ -75,7 +75,11 @@
 
 ![image](<Images/Screenshot 2024-02-26 at 8.32.15 PM.png>)
 
-16. 
+16. Select the tracker - Simple LAP tracker was used in the original pipeline and was used for this examplle as well
+
+![image](<Images/Screenshot 2024-02-26 at 8.38.37 PM.png>)
+
+17. 
 
 
 
