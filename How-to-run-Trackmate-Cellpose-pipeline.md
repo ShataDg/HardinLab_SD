@@ -63,6 +63,7 @@
 
 13. Once Cellpose has finished running, it will output the number of spots detected; click on 'Next'
 
+![image](<Images/Screenshot 2024-02-26 at 8.11.42 PM.png>)
 
 ### Steps 14 - : Running tracker and plotting
 
