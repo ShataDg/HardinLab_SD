@@ -99,7 +99,7 @@
 
 ![image](<Images/Screenshot 2024-02-26 at 9.17.08 PM.png>)
 
-22. Colored outlines will appear on the detected spots
+
 
 
 
