@@ -11,8 +11,7 @@
 ![image](https://github.com/ShataDg/HardinLab_SD/blob/c0e95afcdb46927093f3d8c7d6b557cb2608279f/Images/Screenshot%202024-02-26%20at%2011.09.51%E2%80%AFAM.png)
 
 
-
-### Steps 5 - ..: Running Cellpose-detector within Trackmate
+### Steps 5 - 13: Running Cellpose-detector within Trackmate
 
 5. To use the Cellpose detector within Trackmate, ensure that cellpose has been installed and is running on your system
    
@@ -64,9 +63,10 @@
 
 13. Once Cellpose has finished running, it will output the number of spots detected; click on 'Next'
 
-![image](https://github.com/ShataDg/HardinLab_SD/assets/139376717/bcefae44-a265-487b-add5-5394f6f96cac)
 
-14. Perform 'Intial Thresholding' based on your biological question and click 'Next'
+### Steps 14 - : Running tracker and plotting
+
+1.  Perform 'Intial Thresholding' based on your biological question and click 'Next'
 
 ![Screenshot 2024-02-16 at 2 20 49 PM](https://github.com/ShataDg/HardinLab_SD/assets/139376717/e94af9f4-d50c-4fff-95c6-ef6d7b3c2d04)
 
