@@ -34,9 +34,9 @@
    '''
 6. Click on 'Help' in Fiji, and then 'Update' and restart Fiji to apply the updates
    
-![image](https://github.com/ShataDg/HardinLab_SD/assets/139376717/86f8468a-6083-46fc-a587-413f98bc8c5a)
+![image](https://github.com/ShataDg/HardinLab_SD/blob/c45605374e34e0aba31d19ea35a333863fe31d8d/Images/Screenshot%202024-02-26%20at%207.05.41%E2%80%AFPM.png)
 
-7. Click 'Update' again and then on 'Manage Update Sites'. Check the 'Trackmate-Cellpose' box and restart Fiji.
+1. Click 'Update' again and then on 'Manage Update Sites'. Check the 'Trackmate-Cellpose' box and restart Fiji.
 
 ![Screenshot 2024-02-16 at 1 32 18 PM](https://github.com/ShataDg/HardinLab_SD/assets/139376717/aa239d3a-ec99-40af-b151-fc564fda548b)
 
