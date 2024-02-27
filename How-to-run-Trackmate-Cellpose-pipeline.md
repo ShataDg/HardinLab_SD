@@ -67,7 +67,7 @@
 
 ### Steps 14 - : Running tracker and plotting
 
-14.  Perform 'Intial Thresholding' based on your biological question and click 'Next'
+14.  Perform 'Intial Thresholding' based on your biological question and click 'Next' (for this example, no thresholding was performed)
 
 
 
