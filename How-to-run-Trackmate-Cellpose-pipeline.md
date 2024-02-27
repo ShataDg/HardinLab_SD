@@ -91,10 +91,11 @@
 
 ![image](<Images/Screenshot 2024-02-26 at 8.53.40 PM.png>)
 
-20. Click on the wrench icon at the bottom of the window to set the display parameters
+20. Click on the wrench icon at the bottom of the window to set the display parameters (for this example, spots and trcaks were colored by 'Track means Y' and the color scale was set based on the highest and lowest values)
 
+![image](<Images/Screenshot 2024-02-26 at 9.11.32 PM.png>)
 
-
+![image](<Images/Screenshot 2024-02-26 at 9.11.32 PM.png>)
 
 21. 
 
