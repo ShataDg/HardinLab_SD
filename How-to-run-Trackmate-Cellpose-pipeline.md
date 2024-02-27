@@ -50,7 +50,7 @@
 
 10.  In the TrackMate window, click on 'Next'
 
-![image](https://github.com/ShataDg/HardinLab_SD/assets/139376717/95799681-dbef-423c-8eda-a7a56df20bb2)
+![image](<Images/Screenshot 2024-02-26 at 1.08.39 PM.png>)
 
 11. Set the detector to 'Cellpose detector' and click on 'Next'
 
