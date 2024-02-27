@@ -99,10 +99,7 @@
 
 21. TrackMate will produce overlays of the 'detections' on the hyperstack. This is by default produced as colored outlines (first image). The settings can be changed to produce color-fillled overlays with customised transparencies.
 
-
-    
-
-
+![image](<Images/Screenshot 2024-02-26 at 9.17.08 PM.png>)
 
 22. Colored outlines will appear on the detected spots
 
