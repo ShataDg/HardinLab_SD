@@ -79,7 +79,13 @@
 
 ![image](<Images/Screenshot 2024-02-26 at 8.38.37 PM.png>)
 
-17. 
+17. Set the parameters for the Simple LAP tracker (for this example, the default parameters were used)
+
+
+
+
+
+18. 
 
 
 
