@@ -58,7 +58,7 @@
 
 ![image](<Images/Screenshot 2024-02-26 at 7.41.31 PM.png>)
 
-12. Set the path to Cellpose and the cutsom model and click on Next
+12. Set the paths to Cellpose (i.e. where Cellpose was installed) and the cutsom model (i.e. Cellpose models trained on the images - for this example we are using the 'hardin' model, trained to identify ~6 migrating cells of interest)) and click on Next
 
 ![image](https://github.com/ShataDg/HardinLab_SD/assets/139376717/572d75e9-16ae-4b9d-8b88-c2f56df686e6)
 
