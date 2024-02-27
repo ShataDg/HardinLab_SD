@@ -91,7 +91,12 @@
 
 ![image](<Images/Screenshot 2024-02-26 at 8.53.40 PM.png>)
 
-20. 
+20. Click on the wrench icon at the bottom of the window to set the display parameters
+
+
+
+
+21. 
 
 
 
