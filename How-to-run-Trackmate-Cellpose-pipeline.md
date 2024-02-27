@@ -38,7 +38,7 @@
 
 1. Click 'Update' again and then on 'Manage Update Sites'. Check the 'Trackmate-Cellpose' box and restart Fiji.
 
-![Screenshot 2024-02-16 at 1 32 18 PM](https://github.com/ShataDg/HardinLab_SD/assets/139376717/aa239d3a-ec99-40af-b151-fc564fda548b)
+![image](https://github.com/ShataDg/HardinLab_SD/blob/99b7570a915911baaf8524c5130757f4586e26d2/Images/Screenshot%202024-02-26%20at%207.09.38%E2%80%AFPM.png)
 
 8. Drag and drop the hyperstack created in steps 1 - 4  
 9. Click on 'Plugins' --> 'Tracking' --> 'TrackMate'
