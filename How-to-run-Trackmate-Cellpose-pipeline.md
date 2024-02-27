@@ -43,9 +43,11 @@
 8. Drag and drop the hyperstack created in steps 1 - 4  
 9. Click on 'Plugins' --> 'Tracking' --> 'TrackMate'
 
+![image](<Images/Screenshot 2024-02-26 at 7.16.24 PM.png>)
+
 ![Screenshot 2024-02-16 at 1 36 27 PM](https://github.com/ShataDg/HardinLab_SD/assets/139376717/a932038c-8a75-485c-ac83-ff4328d63994)
 
-10. In the TrackMate window, click on 'Next'
+1.  In the TrackMate window, click on 'Next'
 
 ![image](https://github.com/ShataDg/HardinLab_SD/assets/139376717/95799681-dbef-423c-8eda-a7a56df20bb2)
 
