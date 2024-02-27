@@ -52,6 +52,8 @@
 
 ![image](<Images/Screenshot 2024-02-26 at 1.08.39 PM.png>)
 
+**N.B. At this step, you would only need to check that the number of timepoints is being correctly identified and appearing under 'T'. Since the image that was dragged and dropped was a hyperstack, you would not need to enter a value under 'Z'.**
+
 11. Set the detector to 'Cellpose detector' and click on 'Next'
 
 ![Screenshot 2024-02-16 at 1 40 15 PM](https://github.com/ShataDg/HardinLab_SD/assets/139376717/2c4000f9-8c8c-49cb-a9ba-99bd0fff4e7f)
