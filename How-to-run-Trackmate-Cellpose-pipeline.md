@@ -87,7 +87,11 @@
 
 ![image](<Images/Screenshot 2024-02-26 at 8.46.05 PM.png>)
 
-19. 
+19. Set filters on tracks by selecting the appropriate filtering parameter from the dropdown (for this example, the filetr was set based on track duration, including tracks with a duration of < 427.64ms)
+
+![image](<Images/Screenshot 2024-02-26 at 8.53.40 PM.png>)
+
+20. 
 
 
 
