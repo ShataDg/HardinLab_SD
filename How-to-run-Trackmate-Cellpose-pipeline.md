@@ -40,8 +40,11 @@
 
 ![image](https://github.com/ShataDg/HardinLab_SD/blob/99b7570a915911baaf8524c5130757f4586e26d2/Images/Screenshot%202024-02-26%20at%207.09.38%E2%80%AFPM.png)
 
-8. Drag and drop the hyperstack created in steps 1 - 4  
-9. Click on 'Plugins' --> 'Tracking' --> 'TrackMate'
+8. Drag and drop in Fiji the hyperstack created in steps 1 - 4
+
+![image](<Images/Screenshot 2024-02-26 at 11.45.14 AM.png>)
+
+9.  Click on 'Plugins' --> 'Tracking' --> 'TrackMate'
 
 ![image](<Images/Screenshot 2024-02-26 at 7.16.24 PM.png>)
 
