@@ -56,7 +56,7 @@
 
 11. Set the detector to 'Cellpose detector' and click on 'Next'
 
-![Screenshot 2024-02-16 at 1 40 15 PM](https://github.com/ShataDg/HardinLab_SD/assets/139376717/2c4000f9-8c8c-49cb-a9ba-99bd0fff4e7f)
+![image](<Images/Screenshot 2024-02-26 at 7.41.31 PM.png>)
 
 12. Set the path to Cellpose and the cutsom model and click on Next
 
