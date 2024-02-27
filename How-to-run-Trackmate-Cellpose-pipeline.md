@@ -105,7 +105,7 @@
 
 22. Visualise the data (e.g. Mean intensity channel 1 plotted against time for the detected spots)
 
-![image](<Images/Screenshot 2024-02-27 at 12.06.55 AM.png>)
-
 ![image](<Images/Screenshot 2024-02-27 at 12.06.05 AM.png>)
+
+![image](<Images/Screenshot 2024-02-27 at 12.06.55 AM.png>)
 
