@@ -36,7 +36,7 @@
    
 ![image](https://github.com/ShataDg/HardinLab_SD/blob/c45605374e34e0aba31d19ea35a333863fe31d8d/Images/Screenshot%202024-02-26%20at%207.05.41%E2%80%AFPM.png)
 
-1. Click 'Update' again and then on 'Manage Update Sites'. Check the 'Trackmate-Cellpose' box and restart Fiji.
+7. Click 'Update' again and then on 'Manage Update Sites'. Check the 'Trackmate-Cellpose' box and restart Fiji.
 
 ![image](https://github.com/ShataDg/HardinLab_SD/blob/99b7570a915911baaf8524c5130757f4586e26d2/Images/Screenshot%202024-02-26%20at%207.09.38%E2%80%AFPM.png)
 
