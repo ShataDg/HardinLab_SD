@@ -85,7 +85,7 @@
 
 18. TrackMate will inform the number of detected tracks; click on 'Next'
 
-
+![image](<Images/Screenshot 2024-02-26 at 8.46.05 PM.png>)
 
 19. 
 
